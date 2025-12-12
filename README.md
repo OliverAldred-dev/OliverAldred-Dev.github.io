@@ -14,5 +14,3 @@ Files added:
 - `index.html` — game canvas and scripts
 - `style.css` — minimal styles
 - `game.js` — game logic (movement, aiming, shooting, enemies)
-
-If you'd like I can add keyboard shooting, sound, or build a static demo you can host on GitHub Pages.
